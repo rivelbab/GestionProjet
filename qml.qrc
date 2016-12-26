@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/Acceuil.qml</file>
+        <file>qml/Projet.qml</file>
+        <file>qml/Autre.qml</file>
+        <file>qml/AboutDialog.qml</file>
+        <file>qml/AboutDialog2.qml</file>
+        <file>qml/Footer.qml</file>
+        <file>qml/NewProjet.qml</file>
+        <file>qml/DetailProjet.qml</file>
+        <file>js/jsfile.js</file>
+        <file>qml/AboutSession.qml</file>
+        <file>qml/PresentationPromoteur.qml</file>
+        <file>qml/ResumeProjet.qml</file>
+        <file>qml/Planification.qml</file>
+        <file>qml/Recherche.qml</file>
+        <file>qml/Connexion.qml</file>
+        <file>qml/Preference.qml</file>
+        <file>qml/DetailPromoteur.qml</file>
+        <file>qml/DetailPlanif.qml</file>
+    </qresource>
+</RCC>

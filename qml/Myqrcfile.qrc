@@ -1,0 +1,56 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/logo.png</file>
+    <file>images/alarm.png</file>
+    <file>images/manager.gif</file>
+    <file>images/korgac.png</file>
+    <file>images/pp2.png</file>
+    <file>images/session.svg</file>
+    <file>images/menu2.svg</file>
+    <file>images/recent.svg</file>
+    <file>images/menu.png</file>
+    <file>images/facebook.png</file>
+    <file>images/twitter.png</file>
+    <file>images/help.ico</file>
+    <file>images/home1.png</file>
+    <file>images/projet1.png</file>
+    <file>images/autre1.png</file>
+    <file>images/loading.gif</file>
+    <file>images/dossier.png</file> 
+    <file>images/setting.png</file>
+    <file>images/update.png</file>
+    <file>images/rss.png</file>
+    <file>images/soundcloud.png</file>
+    <file>images/vimeo.png</file>
+    <file>images/definir.svg</file>
+    <file>images/new.svg</file>
+     <file>images/open.svg</file>
+    <file>images/calendar.svg</file>
+    <file>images/execution.svg</file>
+    <file>images/cloture.svg</file>
+    <file>images/client.svg</file>
+    <file>images/contact.svg</file>
+    <file>images/find2.png</file>
+    <file>images/preference.png</file>
+    <file>images/printer.png</file>
+    <file>images/shutdown1.png</file>
+    <file>images/view.png</file>
+    <file>images/triangle.png</file>
+    <file>images/support.png</file>
+    <file>images/about.png</file>
+    <file>images/devhelp.png</file>
+    <file>images/rn.png</file>
+    <file>images/rp.png</file>
+    <file>images/pp.png</file>
+    <file>images/et.png</file>
+    <file>images/em.png</file>
+    <file>images/ef.png</file>
+    <file>images/cal.png</file>
+    <file>images/ab.ttf</file>
+    <file>images/al.otf</file>
+    <file>images/ab2.ttf</file>
+    <file>images/tab_selected.png</file>
+    <file>images/tab.png</file>
+     <file>images/projet2.png</file>
+</qresource>
+</RCC>
